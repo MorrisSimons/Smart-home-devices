@@ -1,0 +1,19 @@
+  .clearfix {
+    overflow: auto;
+}
+.boxar{
+    padding-bottom: 20px;
+    padding-top:20px;
+    background-color: aqua
+    
+}
+.norder{
+    margin-top:5px; 
+    margin-bottom:5px; 
+    margin-right:10px;
+    border-style: groove;
+    border-color: rgb(192, 181, 181);
+}
+.centermintext{
+    text-align: center;
+}
